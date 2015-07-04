@@ -721,6 +721,17 @@ ul.external li a:hover {
     padding-top: 0;
 }
 
+/*
+Cennter
+
+*/
+
+#center-div {
+    width: 50%;
+    margin: 0 auto;
+}
+
+
 /*=================================================================
 	Testimonials
 ==================================================================*/
@@ -897,7 +908,7 @@ ul.external li a:hover {
 ==================================================================*/
 
 #social {
-    background-image: url(../img/slider/banner.jpg);
+    background-image: url(../img/slider/stadium.jpg);
     padding: 0;
 }
 
